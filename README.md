@@ -1,2 +1,2 @@
 # PreCourse
-Este es un repositorio de prueba
+Edite este codigo en mi PC
